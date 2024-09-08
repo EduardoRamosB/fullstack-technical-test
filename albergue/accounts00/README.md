@@ -10,6 +10,11 @@ Actualmente, hay dos plugins oficiales disponibles para React en Vite:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) utiliza [Babel](https://babeljs.io/) para Fast Refresh.
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) utiliza [SWC](https://swc.rs/) para Fast Refresh.
 
+## SonarCloud link
+https://sonarcloud.io/project/overview?id=EduardoRamosB_client-00
+## Github repositorio publico
+https://github.com/EduardoRamosB/client-00
+
 ## Requisitos
 
 - Node.js (versión 14 o superior)

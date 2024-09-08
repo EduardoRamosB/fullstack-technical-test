@@ -6,6 +6,11 @@ Backend utilizando Django Rest Framework para la gestión de un albergue de anim
 - `shelter`: Maneja todo lo relacionado con el albergue, incluidos los animales y las adopciones.
 - `kpis`: Proporciona indicadores del rendimiento del albergue.
 
+## SonarCloud link
+https://sonarcloud.io/project/overview?id=EduardoRamosB_rest-api-00
+## Github repositorio publico
+https://github.com/EduardoRamosB/rest-api-00
+
 ## Requisitos
 
 - Python 3.10 o superior
